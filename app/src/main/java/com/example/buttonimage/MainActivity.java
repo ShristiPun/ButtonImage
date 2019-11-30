@@ -1,4 +1,4 @@
-package com.example.clickimage;
+package com.example.buttonimage;
 
 import androidx.appcompat.app.AppCompatActivity;
 
